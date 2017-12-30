@@ -1,3 +1,3 @@
 # Ping-Pong
 
-My first game launched game.
+My first launched game.
